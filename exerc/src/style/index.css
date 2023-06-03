@@ -1,0 +1,23 @@
+body{
+    background-color: #000;
+    color: #fff;
+
+}
+
+/* Path: src\style\index.css */
+
+.title{
+    text-align: center;
+    font-size: 50px;
+    color: #d31818;
+    margin-top: 100px;
+}
+
+.video{
+    text-align: center;
+    font-size: 50px;
+    color: #d31818;
+    margin-top: 100px;
+    font-size: medium;
+}
+
